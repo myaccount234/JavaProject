@@ -1,1 +1,1 @@
-great day{}
+it is a great day{}
